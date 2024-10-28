@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/@Scenes/FinalGame/Fenotipo.unity
+    guid: cc78128e6d66cc44ea2b96b9b33c2f7a
+  - enabled: 1
+    path: Assets/@Scenes/FinalGame/Epilepsy.unity
+    guid: 023bd31846d5b204897d8d699ef271ef
+  - enabled: 1
+    path: Assets/@Scenes/FinalGame/MicrophoneWarning.unity
+    guid: 94e333f134d8460448f3e342bec62660
+  - enabled: 1
+    path: Assets/@Scenes/FinalGame/GameScene.unity
+    guid: c8d3e99827221524687858cf2facfd17
+  - enabled: 1
+    path: Assets/@Scenes/FinalGame/Credits.unity
+    guid: c6a0915070bb80e41bcf16797647b2b4
+  m_configObjects: {}
